@@ -1,0 +1,2 @@
+### GET ALL HOSPITALS
+GET http://localhost:4000/hospitals
